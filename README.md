@@ -5,10 +5,10 @@ Hi, I'm Bazal.
 I do things like programming.
 
 ### I know a bit of these languages
-* C (Hello World 1)
-* C++ (Hello World 2: Electric Boogaloo)
+* C
+* C++
 * Luau (Roblox's Lua)
 
 ### I want to learn these languages in the near future
-* Python (Very nice indeed)
+* Python
 * GDScript (Godot's Python)
