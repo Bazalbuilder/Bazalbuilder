@@ -2,6 +2,8 @@
 
 Hi, I'm Bazal. I like programming.
 
+Currently developing on Aegis. Look on my profile to learn more!
+
 ### I know a bit of these languages
 * C
 * C++
