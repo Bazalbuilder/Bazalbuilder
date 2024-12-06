@@ -2,7 +2,7 @@
 
 Hi, I'm Bazal. I like programming.
 
-Currently developing on Aegis. Look on my profile to learn more!
+Currently developing on Roblox. Click on my repositories to see the things I'm working on!
 
 ### I know a bit of these languages
 * C
